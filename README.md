@@ -1,5 +1,5 @@
 # daily_maximum_salinity
-This app aggregates 15-min NWIS salinity time series data into daily maximum salinity values for hydrologic NWIS stations. 
+This app aggregates 15-min NWIS salinity time series data into daily maximum salinity values for NWIS hydrologic stations. 
 
 User Inputs: NWIS Site Number & Date Range.
 
